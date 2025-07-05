@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253460486916",
+    "project_id": "health-oracle",
+    "storage_bucket": "health-oracle.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253460486916:android:524c77584e46528b19ce51",
+        "android_client_info": {
+          "package_name": "kashyap.learn.epics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUArCVma2PyJM4vDaoiENlxNpXuZkZOxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
